@@ -1,5 +1,5 @@
-##  欢迎来到Jimmy的博客
-# Welcome to Jimmy's blog
+#  欢迎来到Jimmy的博客
+### Welcome to Jimmy's blog
 
 You can use the [editor on GitHub](https://github.com/WestinHunt/WH-Jimmy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
